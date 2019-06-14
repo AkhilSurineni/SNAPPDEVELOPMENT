@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Group  view" section_id="ec244758dbc23300496161ca0b961946" sys_domain="global" table="x_366641_sriinduit_incidentlog2" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:48:17</sys_created_on>
+            <sys_id>f8244758dbc23300496161ca0b961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Group  view" display_value="Group  view" name="x_366641_sriinduit_incidentlog2" sys_domain="global" view="Default view">ec244758dbc23300496161ca0b961946</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:48:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:48:17</sys_created_on>
+            <sys_id>7c244758dbc23300496161ca0b961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Group  view" display_value="Group  view" name="x_366641_sriinduit_incidentlog2" sys_domain="global" view="Default view">ec244758dbc23300496161ca0b961946</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:48:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:48:17</sys_created_on>
+            <sys_id>fc244758dbc23300496161ca0b961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Group  view" display_value="Group  view" name="x_366641_sriinduit_incidentlog2" sys_domain="global" view="Default view">ec244758dbc23300496161ca0b961946</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:48:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>application</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:48:17</sys_created_on>
+            <sys_id>70244758dbc23300496161ca0b96196a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Group  view" display_value="Group  view" name="x_366641_sriinduit_incidentlog2" sys_domain="global" view="Default view">ec244758dbc23300496161ca0b961946</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:48:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Group  view</caption>
+            <header>false</header>
+            <name>x_366641_sriinduit_incidentlog2</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:48:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec244758dbc23300496161ca0b961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Group  view</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SRIINDUIT" source="x_366641_sriinduit">29dbf954db023300496161ca0b9619ed</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SRIINDUIT">29dbf954db023300496161ca0b9619ed</sys_scope>
+            <sys_update_name>sys_ui_section_ec244758dbc23300496161ca0b961946</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:48:17</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

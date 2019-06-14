@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>work_start</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 09:21:54</sys_created_on>
+        <sys_id>a56744b8dbce3300496161ca0b9619e0</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>work_start</sys_name>
+        <sys_package display_value="SRIINDUIT" source="x_366641_sriinduit">29dbf954db023300496161ca0b9619ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SRIINDUIT">29dbf954db023300496161ca0b9619ed</sys_scope>
+        <sys_update_name>sys_ui_policy_action_a56744b8dbce3300496161ca0b9619e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 09:33:06</sys_updated_on>
+        <table>x_366641_sriinduit_incidentlog</table>
+        <ui_policy display_value="UI policy short description">014588f8dbce3300496161ca0b9619e5</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>

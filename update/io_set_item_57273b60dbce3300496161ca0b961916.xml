@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <sc_cat_item display_value="sriindu sales laptop">a0e75b6cdb4e3300496161ca0b961905</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 08:09:46</sys_created_on>
+        <sys_id>57273b60dbce3300496161ca0b961916</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>hardware set.sriindu sales laptop</sys_name>
+        <sys_package display_value="SRIINDUIT" source="x_366641_sriinduit">29dbf954db023300496161ca0b9619ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SRIINDUIT">29dbf954db023300496161ca0b9619ed</sys_scope>
+        <sys_update_name>io_set_item_57273b60dbce3300496161ca0b961916</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 08:09:46</sys_updated_on>
+        <variable_set display_value="hardware set">1ef3b3ecdb8e3300496161ca0b96193f</variable_set>
+    </io_set_item>
+</record_update>

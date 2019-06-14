@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="abcde" label="Abcde" language="en" table="x_366641_sriinduit_incidentlog2">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>abcde</element>
+            <help/>
+            <hint/>
+            <label>Abcde</label>
+            <language>en</language>
+            <name>x_366641_sriinduit_incidentlog2</name>
+            <plural>Abcdes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:53:59</sys_created_on>
+            <sys_id>90758398dbc23300496161ca0b96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Abcde</sys_name>
+            <sys_package display_value="SRIINDUIT" source="x_366641_sriinduit">29dbf954db023300496161ca0b9619ed</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SRIINDUIT">29dbf954db023300496161ca0b9619ed</sys_scope>
+            <sys_update_name>sys_documentation_x_366641_sriinduit_incidentlog2_abcde_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:53:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

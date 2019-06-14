@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="incidentlog2" max_length="40" name="x_366641_sriinduit_incidentlog2" sizeclass="1" type="collection">
+        <element default="100" label="abc" max_length="40" name="abc" type="string"/>
+        <element label="abcde" max_length="32" name="abcde" reference="alm_license" type="reference"/>
+        <element choice="1" label="application" max_length="40" name="application" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="read only" value="read only"/>
+            </choice>
+        </element>
+        <element label="Contact" max_length="10" name="contact" type="condition_string"/>
+    </element>
+</database>
