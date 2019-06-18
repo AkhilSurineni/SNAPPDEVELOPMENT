@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-06-13 05:00:07</sys_created_on>
-        <sys_id>3e55d081db423300496161ca0b9619d9</sys_id>
+        <sys_id>8c2a52aadb023300987b2706ca961977</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_366641_sriinduit_incidentlog_backup</sys_name>
         <sys_package display_value="SRIINDUIT" source="x_366641_sriinduit">29dbf954db023300496161ca0b9619ed</sys_package>
         <sys_policy/>
         <sys_scope display_value="SRIINDUIT">29dbf954db023300496161ca0b9619ed</sys_scope>
-        <sys_update_name>ua_table_licensing_config_3e55d081db423300496161ca0b9619d9</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_8c2a52aadb023300987b2706ca961977</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-06-13 05:00:07</sys_updated_on>
     </ua_table_licensing_config>

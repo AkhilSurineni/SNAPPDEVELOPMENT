@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_form_sections form_id="b29e6658db823300496161ca0b9619cb" sys_domain="global" table="x_366641_sriinduit_incidentlog" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-06-18 06:31:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ce2a16aadb023300987b2706ca961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366641_sriinduit_incidentlog" name="x_366641_sriinduit_incidentlog" sys_domain="global" view="783811707420330078509adcc48c87a3">b29e6658db823300496161ca0b9619cb</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_366641_sriinduit_incidentlog" sys_domain="global" view="783811707420330078509adcc48c87a3">280fea58db823300496161ca0b961901</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-06-18 06:31:13</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_366641_sriinduit_incidentlog</name>
             <roles/>
