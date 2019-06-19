@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>true</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>true</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>webservice testing</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_366641_sriinduit_webservice_testing</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-19 05:22:13</sys_created_on>
+        <sys_id>b68317fadb023300987b2706ca96193f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>webservice testing</sys_name>
+        <sys_package display_value="SRIINDUIT" source="x_366641_sriinduit">29dbf954db023300496161ca0b9619ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SRIINDUIT">29dbf954db023300496161ca0b9619ed</sys_scope>
+        <sys_update_name>sys_db_object_b68317fadb023300987b2706ca96193f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-19 05:22:13</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role display_value="x_366641_sriinduit.webservice_testing_user" name="x_366641_sriinduit.webservice_testing_user">05f31fbadb023300987b2706ca9619d4</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

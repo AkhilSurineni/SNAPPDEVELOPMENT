@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_366641_sriinduit.updateset3_user" name="x_366641_sriinduit.updateset3_user">648f47e2dbc23300987b2706ca961935</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-18 10:24:19</sys_created_on>
+        <sys_id>648f4be2dbc23300987b2706ca9619e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>648f47e2dbc23300987b2706ca961935</sys_name>
+        <sys_package display_value="SRIINDUIT" source="x_366641_sriinduit">29dbf954db023300496161ca0b9619ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SRIINDUIT">29dbf954db023300496161ca0b9619ed</sys_scope>
+        <sys_update_name>sys_embedded_help_role_648f4be2dbc23300987b2706ca9619e1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-18 10:24:19</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
